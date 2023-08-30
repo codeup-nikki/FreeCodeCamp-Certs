@@ -3,6 +3,20 @@ body {
     font-family: sans-serif;
   }
 
+  h1{
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+
+  hr {
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+  }
+
 .menu {
     width: 80%;
     background-color: burlywood;
@@ -32,4 +46,8 @@ h1, h2 {
 
 .item p {
     display: inline-block;
+}
+
+.established {
+  font-style: italic;
 }
